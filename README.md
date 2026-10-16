@@ -51,6 +51,14 @@ python main.py
 
 Work in progress. Terrain generation, materials, and world generation are being developed.
 
+![Uploading Screenshot 2026-10-16 192448.png…]()
+
+![Uploading Screenshot 2026-10-16 192301.png…]()
+
+
+
+
+
 ## License
 
 No license has been selected yet.
